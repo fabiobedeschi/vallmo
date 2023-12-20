@@ -13,9 +13,9 @@ You probably want the Features brick to be the same on every page. You can stack
 {{</* brick_features */>}}{{</* /brick_features */>}}
 ```
 
-### Content in content/en/bricks/features.md
+### Content in content/it/bricks/features.md
 
-The content of the brick should be stored in the file 'features.md' in the 'content/en/bricks/' folder. Note that the filename is equal to the name of the brick (withouth 'brick_'). We use an h2 (two hashes) for the title of the brick, an h3 (three hashes) for the title of the feature and an hr (three dashes) for splitting the features. This file should look like this:
+The content of the brick should be stored in the file 'features.md' in the 'content/it/bricks/' folder. Note that the filename is equal to the name of the brick (withouth 'brick_'). We use an h2 (two hashes) for the title of the brick, an h3 (three hashes) for the title of the feature and an hr (three dashes) for splitting the features. This file should look like this:
 
 ```
 ---
@@ -47,7 +47,7 @@ Lightning fast website. Lorem ipsum dolor sit amet consectetur adipisicing elit.
 Easily themeable. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
 ```
 
-### Page-specific content 
+### Page-specific content
 
 If you want your content to be different on a specific page, you can override it by placing your custom content in between the opening and closing tag of the brick, like this:
 

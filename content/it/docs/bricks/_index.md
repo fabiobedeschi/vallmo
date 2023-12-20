@@ -23,7 +23,7 @@ title: Page title
 
 ### Brick content
 
-You can choose to write content inside the brick (between the open and the close tag of the brick) to make the brick page-specific. When you immediately close the brick after opening (like in the examples above), the brick will be filled with default content. The default content can be found in 'content/en/bricks/intro.md', where 'intro' is the name of the brick. This file looks similar to this:
+You can choose to write content inside the brick (between the open and the close tag of the brick) to make the brick page-specific. When you immediately close the brick after opening (like in the examples above), the brick will be filled with default content. The default content can be found in 'content/it/bricks/intro.md', where 'intro' is the name of the brick. This file looks similar to this:
 
 ```
 ---

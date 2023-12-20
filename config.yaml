@@ -1,6 +1,6 @@
-baseURL: https://www.hugobricks.preview.usecue.com
+baseURL: //associazioneilpapavero.it
 theme: hugobricks
-defaultContentLanguage: en
+defaultContentLanguage: it
 assetDir: static
 
 markup:
@@ -9,13 +9,8 @@ markup:
       unsafe: true # Allow HTML in md files
 
 languages:
-  en:
-    languageName: English
-    contentDir: content/en
+  it:
+    languageName: Italiano
+    contentDir: content/it
     weight: 1
     disabled: false
-  nl:
-    languageName: Nederlands
-    contentDir: content/nl
-    weight: 2
-    disabled: true

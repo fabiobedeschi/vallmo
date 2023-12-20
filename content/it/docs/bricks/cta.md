@@ -12,9 +12,9 @@ You probably want the CTA brick to be the same on every page. You can stack the 
 {{</* brick_cta */>}}{{</* /brick_cta */>}}
 ```
 
-### Content in content/en/bricks/cta.md
+### Content in content/it/bricks/cta.md
 
-The content of the brick should be stored in the file 'cta.md' in the 'content/en/bricks/' folder. Note that the filename is equal to the name of the brick (withouth 'brick_'). This file should look like this:
+The content of the brick should be stored in the file 'cta.md' in the 'content/it/bricks/' folder. Note that the filename is equal to the name of the brick (withouth 'brick_'). This file should look like this:
 
 ```
 ---
@@ -30,7 +30,7 @@ Experience the future of web development with Hugo and stackable content bricks.
 ![](/uploads/illustrations/cuate/server.svg)
 ```
 
-### Page-specific content 
+### Page-specific content
 
 If you want your content to be different on a specific page, you can override it by placing your custom content in between the opening and closing tag of the brick, like this:
 
