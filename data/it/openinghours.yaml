@@ -1,18 +1,18 @@
 mon:
-  start: 9.00 am
-  end: 5.00 pm
+  start: "14:00"
+  end: "19:00"
 tue:
-  start: 9.00 am
-  end: 5.00 pm
+  start: "14:00"
+  end: "19:00"
 wed:
-  start: 9.00 am
-  end: 5.00 pm
+  start: "14:00"
+  end: "19:00"
 thu:
-  start: 9.00 am
-  end: 5.00 pm
+  start: "14:00"
+  end: "19:00"
 fri:
-  start: 9.00 am
-  end: 5.00 pm
+  start: "14:00"
+  end: "19:00"
 sat:
   start:
   end:

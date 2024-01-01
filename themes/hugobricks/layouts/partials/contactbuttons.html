@@ -5,4 +5,11 @@
     {{- if (index page.Site.Data page.Site.Language.Lang).general.contact.email -}}
         <li><a href="mailto:{{ (index page.Site.Data page.Site.Language.Lang).general.contact.email }}" class="button icon"><img src="/img/email.svg" alt="{{ (index page.Site.Data page.Site.Language.Lang).general.contact.email }}" /></a></li>
     {{- end -}}
+    {{- if (index page.Site.Data page.Site.Language.Lang).general.contact.address -}}
+        {{- if (index page.Site.Data page.Site.Language.Lang).general.contact.address_link -}}
+        <li><a href="{{ (index page.Site.Data page.Site.Language.Lang).general.contact.address_link }}" class="button icon"><img src="/img/marker.svg" alt="{{ (index page.Site.Data page.Site.Language.Lang).general.contact.address_link }}" /></a></li>
+        {{- else -}}
+        <li><a href="https://www.google.com/maps/search/?api=1&query={{ (index page.Site.Data page.Site.Language.Lang).general.contact.address }}" class="button icon"><img src="/img/marker.svg" alt="{{ (index page.Site.Data page.Site.Language.Lang).general.contact.address }}" /></a></li>
+        {{- end -}}
+    {{- end -}}
 </ul>
