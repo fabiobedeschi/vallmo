@@ -1,4 +1,6 @@
-.hugo_build.lock
+.*
+!.gitignore
+
 resources
 public/
 sandbox/
