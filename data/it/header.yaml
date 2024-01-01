@@ -3,10 +3,10 @@ logo_subtitle: Associazione di Promozione Sociale
 mobile_view_width: 1000
 menuitems:
   - title: Home
-    link: /#top
+    link: '#top'
   - title: Chi siamo
-    link: /#chi-siamo
+    link: '#chi-siamo'
   - title: Servizi
-    link: /#servizi
+    link: '#servizi'
   - title: Contatti
-    link: /#contatti
+    link: '#contatti'

@@ -26,10 +26,10 @@
       <div class="container">
         <div class="icons">
           {{- if (index .Site.Data .Language.Lang).general.contact.phone -}}
-            <a href="tel:{{ replace (index .Site.Data .Language.Lang).general.contact.phone ` ` `` }}" class="icon"><img src="/img/phone.svg" alt="{{ (index .Site.Data .Language.Lang).general.contact.phone }}" class="black_2_textMedium" /> {{ (index .Site.Data .Language.Lang).general.contact.phone }}</a>
+            <a href="tel:{{ replace (index .Site.Data .Language.Lang).general.contact.phone ` ` `` }}" class="icon"><img src="img/phone.svg" alt="{{ (index .Site.Data .Language.Lang).general.contact.phone }}" class="black_2_textMedium" /> {{ (index .Site.Data .Language.Lang).general.contact.phone }}</a>
           {{- end -}}
           {{- if (index .Site.Data .Language.Lang).general.contact.email -}}
-            <a href="mailto:{{ (index .Site.Data .Language.Lang).general.contact.email }}" class="icon"><img src="/img/email.svg" alt="{{ (index .Site.Data .Language.Lang).general.contact.email }}" class="black_2_textMedium" /> {{ (index .Site.Data .Language.Lang).general.contact.email }}</a>
+            <a href="mailto:{{ (index .Site.Data .Language.Lang).general.contact.email }}" class="icon"><img src="img/email.svg" alt="{{ (index .Site.Data .Language.Lang).general.contact.email }}" class="black_2_textMedium" /> {{ (index .Site.Data .Language.Lang).general.contact.email }}</a>
           {{- end -}}
         </div>
         <div>
@@ -96,18 +96,18 @@
 		</footer>
 
 		{{ if .Site.Data.settings.sticky_header }}
-      <script type="text/javascript" src="/js/stickyheader.js"></script>
+      <script type="text/javascript" src="js/stickyheader.js"></script>
     {{ end }}
-    <script type="text/javascript" src="/js/faq.js"></script>
-    <script type="text/javascript" src="/js/lightbox.js"></script>
-		<link rel="stylesheet" href="/css/lightbox.css">
+    <script type="text/javascript" src="js/faq.js"></script>
+    <script type="text/javascript" src="js/lightbox.js"></script>
+		<link rel="stylesheet" href="css/lightbox.css">
     {{ if .Site.Data.settings.customcursor }}
-      <script type="text/javascript" src="/js/customcursor.js"></script>
-      <link rel="stylesheet" href="/css/customcursor.css">
+      <script type="text/javascript" src="js/customcursor.js"></script>
+      <link rel="stylesheet" href="css/customcursor.css">
     {{ end }}
     {{ if .Site.Data.settings.intersectionobserver }}
-      <script type="text/javascript" src="/js/intersectionobserver.js"></script>
-      <link rel="stylesheet" href="/css/intersectionobserver.css">
+      <script type="text/javascript" src="js/intersectionobserver.js"></script>
+      <link rel="stylesheet" href="css/intersectionobserver.css">
     {{ end }}
       </div>
   </body>

@@ -3,15 +3,15 @@ dark_footer: false
 socials:
   - title: Facebook
     link: https://facebook.com/IlPapaveroAssociazioneDiPromozioneSociale
-    logo_image: /img/facebook.svg
+    logo_image: img/facebook.svg
   - title: Instagram
     link: https://instagram.com/associazioneilpapavero
-    logo_image: /img/instagram.svg
+    logo_image: img/instagram.svg
   - title: Youtube
     link: https://youtube.com/@associazioneilpapavero8974
-    logo_image: /img/youtube.svg
+    logo_image: img/youtube.svg
   - title: Linkedin
     link: https://linkedin.com/company/associazione-il-papavero
-    logo_image: /img/linkedin.svg
+    logo_image: img/linkedin.svg
 
 footer_text: © 2024 - All rights reserved

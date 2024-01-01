@@ -28,7 +28,7 @@
                         <h3>{{ .Title | safeHTML }}</h3>
                         {{ if .Params.date }}<div class="meta">
                             <div>
-                                <img src="/img/icons/material-symbols/200/rounded/calendar_month-fill.svg"class="black_2_textDark" alt="" />
+                                <img src="img/icons/material-symbols/200/rounded/calendar_month-fill.svg"class="black_2_textDark" alt="" />
                                 {{ .Date | time.Format ":date_medium"}}
                             </div>
                         </div>
@@ -43,7 +43,7 @@
             <li class="placeholder"></li>
         </ul>
         <a class="button secondary ghost smaller" id="loadmoreposts" onclick="loadMorePosts();">{{ i18n "Load more posts" }}...</a>
-        <script src="/js/filter.js" charset="utf-8"></script>
+        <script src="js/filter.js" charset="utf-8"></script>
     </div>
 </section>
 

@@ -142,7 +142,7 @@ footer.dark a.logo img.inline {filter: invert(1)!important;}
 
 #togglemenu {
     display: none; 
-    background: transparent url(/img/menu.svg) center center / 2rem auto no-repeat; 
+    background: transparent url(../img/menu.svg) center center / 2rem auto no-repeat;
     border: 0; 
     color: transparent; 
     overflow: hidden; 
@@ -199,7 +199,7 @@ body.mobilemenu header nav > ul > li > ul li a {padding: 0.5rem 2rem 0.5rem 5rem
 /*------------------------*/
 
 body.mobilemenu.menushown #togglemenu {
-    background: transparent url(/img/close.svg) center center / 2rem auto no-repeat; 
+    background: transparent url(../img/close.svg) center center / 2rem auto no-repeat;
     z-index: 10; 
     position: fixed; 
     top: 1.5rem;
