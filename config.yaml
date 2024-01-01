@@ -1,4 +1,4 @@
-baseURL: //associazioneilpapavero.it
+baseURL: ''  # TODO: must be changed
 theme: hugobricks
 defaultContentLanguage: it
 assetDir: static

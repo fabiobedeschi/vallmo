@@ -1,4 +1,4 @@
-favicon_image: /uploads/branding/favicon.ico
+favicon_image: uploads/branding/favicon.ico
 sticky_header: true
 customcursor: false
 intersectionobserver: true
