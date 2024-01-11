@@ -14,9 +14,9 @@ title: Home
 
 ![](uploads/photos/people.jpeg)
 
-Il Papavero è un'associazione di promozione sociale senza fine di lucro fondata da insegnanti, laureati e professionisti che si occupano di educazione e formazione scolastica ed extrascolastica e che offrono sostegno didattico per favorire l'apprendimento per ogni fascia di età.
+Il Papavero è un'Associazione di Promozione Sociale senza finalità di lucro fondata da insegnanti, laureati e professionisti che si occupano di **educazione e formazione scolastica ed extrascolastica** e che offrono sostegno didattico per favorire l'apprendimento **per ogni fascia di età**.
 
-L'associazione organizza attività culturali, laboratori, momenti di aggregazione e corsi rivolti ai ragazzi, alle loro famiglie e a persone di ogni età con lo scopo di favorire il benessere emotivo, morale, sociale, intellettuale e civile.
+Organizziamo attività culturali, laboratori, momenti di aggregazione e corsi rivolti ai ragazzi, alle loro famiglie e a persone di ogni età con lo scopo di favorire il benessere emotivo, morale, sociale, intellettuale e civile.
 
 {{< youtube "TpyCqsfZaco&t" "uploads/branding/logo2.png" >}}
 {{< /brick_image >}}
@@ -29,10 +29,11 @@ L'associazione organizza attività culturali, laboratori, momenti di aggregazion
 
 {{< brick_features >}}
 ## Servizi
+_* È prevista una quota associativa annuale_
 
 ---
 ![](img/icons/material-symbols/200/rounded/auto_fix.svg)
-### Ripetizioni
+### Lezioni private
 
 Ripetizioni individuali e di gruppo per tutte le materie scolastiche e universitarie.
 
@@ -46,13 +47,26 @@ Doposcuola per la scuola primaria e secondaria di primo e secondo grado.
 ![](img/icons/material-symbols/200/rounded/design_services.svg)
 ### Assistenza allo studio
 
-Incontri ed attività di supporto allo studio, pianificazione e organizzazione del lavoro scolastico.
+Attività di supporto allo studio, pianificazione e organizzazione del lavoro scolastico.
 
 ---
 ![](img/icons/material-symbols/200/rounded/devices.svg)
 ### Lezioni online
 
 Lezioni online con supporto tecnologico per la didattica a distanza.
+
+---
+![](img/icons/material-symbols/200/rounded/performance_max.svg)
+### Preparazione test
+
+Preparazione ai test di ingresso universitari (Medicina, TOLC, ecc.).
+
+---
+![](img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
+### Attività extrascolastiche
+
+Attività extrascolastiche per bambini e ragazzi (laboratori, corsi, ecc.).
+
 {{< /brick_features >}}
 
 
